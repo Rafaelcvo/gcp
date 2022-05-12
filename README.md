@@ -1,2 +1,2 @@
-# gcp
+# Google Cloud
 Curso Google Cloud
